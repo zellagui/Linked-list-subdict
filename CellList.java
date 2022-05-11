@@ -4,7 +4,6 @@ import java.util.Objects;
 
 /**
  * @author Anis Zellagui
- * Comp 249, Assignement #4, return before 15/04/2022
  * This software have purpose to work with linked list.
  * @version 1.0
  */
